@@ -1,0 +1,8 @@
+/debug
+/release
+/.cache
+
+compile_commands.json
+*.vcproj
+vc*.idb
+vc*.pdb
